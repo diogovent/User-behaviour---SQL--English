@@ -1,4 +1,4 @@
-# 👤 User-behaviour---SQL--English
+# 👤 User-behaviour-SQL--English
 
 > Building a comprehensive behavioural profile of users of a loyalty programme based on the **Twitch** platform, using pure SQL (SQLite).
 
